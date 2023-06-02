@@ -1,4 +1,3 @@
-import projectImage from '../images/portfolio-2.jpg'
 import ProjectCard from './projectCard'
 import nft from '../images/nft.jpg'
 import socialMedia from '../images/socialmedia.jpg'

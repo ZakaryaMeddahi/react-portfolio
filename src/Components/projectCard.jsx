@@ -1,4 +1,4 @@
-import projectImage from '../images/portfolio-2.jpg'
+
 
 
 function ProjectCard (props) {

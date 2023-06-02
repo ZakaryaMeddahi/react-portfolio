@@ -1,4 +1,4 @@
-import image from '../images/portfolio-2.jpg'
+
 
 function Body() {
 
